@@ -15,7 +15,7 @@ import {
 } from "react-native";
 
 /* ---------------- OPEN DATABASE ---------------- */
-const db = SQLite.openDatabase("todos.db");
+const db = SQLite.openDatabaseSync("todos.db");
 
 /* ---------------- NOTIFICATION HANDLER ---------------- */
 Notifications.setNotificationHandler({
