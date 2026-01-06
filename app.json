@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "ok",
+    "name": "MyTodoApp2026",
     "slug": "ok",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "ok",
+    "scheme": "mytodoapp2026",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -20,7 +20,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.sultanulhind.ok"
+      "package": "com.sultanulhind.mytodoapp2026"
     },
     "web": {
       "output": "static",
