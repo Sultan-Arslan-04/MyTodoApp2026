@@ -39,7 +39,8 @@
             "backgroundColor": "#000000"
           }
         }
-      ]
+      ],
+      "@react-native-community/datetimepicker"
     ],
     "experiments": {
       "typedRoutes": true,
@@ -50,6 +51,7 @@
       "eas": {
         "projectId": "7dda4f49-ffba-4c5d-8274-dcc3db844928"
       }
-    }
+    },
+    "owner": "sultan-ul-hind"
   }
 }
